@@ -61,6 +61,10 @@ Here is some information about me:
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdityaSubrahmanyaBhat&repo=github-readme-stats)](https://github.com/AdityaSubrahmanyaBhat/github-readme-stats)-->
 <!-- <img src="https://profile-counter.glitch.me/AdityaSubrahmanyaBhat/count.svg"> -->
 <!-- <img src="https://github4life.herokuapp.com/AdityaSubrahmanyaBhat.gif"> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=AdityaSubrahmanyaBhat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSubrahmanyaBhat&theme=highcontrast" /> -->
+
+
 
 
  
