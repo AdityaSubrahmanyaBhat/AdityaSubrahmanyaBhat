@@ -64,7 +64,8 @@ Here is some information about me:
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=AdityaSubrahmanyaBhat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSubrahmanyaBhat&theme=highcontrast" /> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSubrahmanyaBhat&theme=vue)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSubrahmanyaBhat&theme=vue) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSubrahmanyaBhat&theme=vue" />
 
 
  
