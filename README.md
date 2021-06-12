@@ -66,6 +66,7 @@ Here is some information about me:
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSubrahmanyaBhat&theme=vue) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSubrahmanyaBhat&theme=vue" />
+<!-- <img src="https://metrics.lecoq.io/AdityaSubrahmanyaBhat?template=classic" /> -->
 
 
  
