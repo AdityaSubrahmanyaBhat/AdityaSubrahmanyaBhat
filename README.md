@@ -16,6 +16,7 @@ Here is some information about me:
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <!--    ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase) -->
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://supabase.io" target="_blank"> <img src="https://github.com/AdityaSubrahmanyaBhat/AdityaSubrahmanyaBhat/blob/master/supabase.png" alt="supabase"  height="40"/> </a> 
 <!--    ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=HTML)
    ![CSS](https://img.shields.io/badge/-CSS-orange?style=flat-square&logo=CSS) -->
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
