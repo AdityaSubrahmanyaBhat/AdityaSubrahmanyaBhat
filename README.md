@@ -49,6 +49,8 @@ Here is some information about me:
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
    
+- Check out my blogs at:
+  https://adityasubrahmanyabhat.hashnode.dev/ and https://dev.to/adityasubrahmanyabhat
 
 - 📫 How to reach me: 
 
