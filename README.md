@@ -1,7 +1,7 @@
 <!-- # Hi there 👋 , I am Aditya Subrahmanya Bhat -->
 # Hi there <img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" alt="👋" height=40px /> , I am Aditya Subrahmanya Bhat
 <!-- ![banner](https://github.com/AdityaSubrahmanyaBhat/AdityaSubrahmanyaBhat/blob/master/Adi1.gif) -->
-<img src="https://github.com/AdityaSubrahmanyaBhat/AdityaSubrahmanyaBhat/blob/master/Adi1.gif" alt="" width=100% />
+<!-- <img src="https://github.com/AdityaSubrahmanyaBhat/AdityaSubrahmanyaBhat/blob/master/Adi1.gif" alt="" width=100% /> -->
 
 ### I am currently pursuing my second year as a Computer Science student at the National Institute of engineering , Mysore
 
