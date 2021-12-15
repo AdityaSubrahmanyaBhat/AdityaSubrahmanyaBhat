@@ -61,7 +61,7 @@ Here is some information about me:
 
 <!--[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat)](https://github.com/AdityaSubrahmanyaBhat/github-readme-stats)-->
 <!-- ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat&theme=algolia&count_private=true&hide=contribs,prs,issues&show_icons=true) -->
-<img src="https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat&theme=algolia&count_private=true&hide=issues&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaSubrahmanyaBhat&theme=algolia&count_private=true&hide=&show_icons=true">
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSubrahmanyaBhat&theme=algolia&layout=compact&langs_count=10)](https://github.com/AdityaSubrahmanyaBhat/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSubrahmanyaBhat&theme=algolia&layout=compact&langs_count=10)](https://github.com/AdityaSubrahmanyaBhat/github-readme-stats">
